@@ -15,7 +15,7 @@ reservoir:
     porosity: 'Nechelik_poro.dat'
     height: 5753. #ft
     length: 7060.5 #ft
-    depth: 100. #ft
+    depth: 100 #ft -- add 'Nechelik_depth.dat' here
     oil:
         residual saturation: 0.2
         corey-brooks exponent: 3.0
